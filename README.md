@@ -1,4 +1,5 @@
 # SantanderBootcampDio
+[![npm version](https://img.shields.io/npm/l/react)](https://github.com/MariaLuiza-CS/SantanderBootcampDio/blob/master/LICENSE)
 
 O Santander em parceria com a [DIO](https://digitalinnovation.one/), lançou o Bootcamp Mobile Developer que teve como objetivo fortalecer a comunidade tecnológica brasileira, potencializar a formação de talentos em desenvolvimento de aplicativos mobile nativos para Android, com as melhores práticas utilizadas por experts do mercado.
 
