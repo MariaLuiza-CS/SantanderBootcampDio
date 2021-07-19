@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">SantanderProjectDio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="add_toast_btn_add">Tarefa Adicionada com sucesso!</string>
+    <string name="add_toast_inputcheckerror">Por favor, preencher todos os campos!</string>
+    <string name="list_dialog_title">Deletar todas as tarefa?</string>
+    <string name="list_dialog_message">Você deseja deletar permanentemente todas as tarefas?</string>
+    <string name="list_dialog_neutral">Cancelar</string>
+    <string name="list_dialog_negative">Não</string>
+    <string name="list_dialog_positive">Sim</string>
+    <string name="list_toast_delete">Todas as tarefas foram deletadas com sucesso</string>
+    <string name="update_toast_btn_update">Tarefa atualizada com sucesso!</string>
+    <string name="update_dialog_title">Deletar essa tarefa?</string>
+    <string name="update_dialog_message">Você deseja deletar permanentemente essa tarefa?</string>
+    <string name="update_toast_delete">Tarefa deletada com sucesso!</string>
+    <string name="custom_tv_title_text_task">Titulo da tarefa</string>
+    <string name="custom_tv_description_text_task">Descrição da tarefa</string>
+    <string name="custom_iv_cd_task">Details</string>
+    <string name="empty_state_iv_cd">Empty State</string>
+    <string name="empty_state_title_text">Lista vazia</string>
+    <string name="empty_state_descripton_text">Clique no ícone \'+\' para adicionar</string>
+    <string name="fragment_add_toolbar_title">Adicionar</string>
+    <string name="fragment_add_til_title_hint">titulo</string>
+    <string name="fragment_add_til_description_hint">descrição</string>
+    <string name="fragment_add_til_date_hint">data</string>
+    <string name="fragment_add_til_hour_hint">hora</string>
+    <string name="fragment_add_btn_cancel_text">cancelar</string>
+    <string name="fragment_add_btn_add_text">adicionar</string>
+    <string name="fragment_list_toolbar_title">Lista de Tarefas</string>
+    <string name="fragment_add_fab_cd">Add Task</string>
+    <string name="fragment_update_toolbar_title">Atualizar</string>
+    <string name="fragment_update_til_title_hint">titulo</string>
+    <string name="fragment_update_til_description_hint">descrição</string>
+    <string name="fragment_update_til_date_hint">data</string>
+    <string name="fragment_update_til_hour_hint">hora</string>
+    <string name="fragment_update_btn_cancel_text">cancelar</string>
+    <string name="fragment_update_btn_update_text">Atualizar</string>
+    <string name="menu_delete_title">delete</string>
+</resources>

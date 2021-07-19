@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SantanderProjectDio</string>
+    <string name="add_toast_btn_add">Successfully added!</string>
+    <string name="add_toast_inputcheckerror">Please, fill out all fields!</string>
+    <string name="list_dialog_title">Delete all Tasks?</string>
+    <string name="list_dialog_message">Are you sure you want to delete everything?</string>
+    <string name="list_dialog_neutral">Cancel</string>
+    <string name="list_dialog_negative">No</string>
+    <string name="list_dialog_positive">Yes</string>
+    <string name="list_toast_delete">Successfully removed everything</string>
+    <string name="update_toast_btn_update">Successfully Updated!</string>
+    <string name="update_dialog_title">Delete task?</string>
+    <string name="update_dialog_message">Are you sure you want to delete?</string>
+    <string name="update_toast_delete">Successfully removed!</string>
+    <string name="custom_tv_title_text_task">Task title</string>
+    <string name="custom_tv_description_text_task">Task description</string>
+    <string name="custom_iv_cd_task">Details</string>
+    <string name="empty_state_iv_cd">Empty State</string>
+    <string name="empty_state_title_text">Empty List</string>
+    <string name="empty_state_descripton_text">Tap the \'+\' icon to add</string>
+    <string name="fragment_add_toolbar_title">Add</string>
+    <string name="fragment_add_til_title_hint">title</string>
+    <string name="fragment_add_til_description_hint">description</string>
+    <string name="fragment_add_til_date_hint">date</string>
+    <string name="fragment_add_til_hour_hint">hour</string>
+    <string name="fragment_add_btn_cancel_text">cancel</string>
+    <string name="fragment_add_btn_add_text">add</string>
+    <string name="fragment_list_toolbar_title">Task List</string>
+    <string name="fragment_add_fab_cd">Add Task</string>
+    <string name="fragment_update_toolbar_title">Update</string>
+    <string name="fragment_update_til_title_hint">title</string>
+    <string name="fragment_update_til_description_hint">description</string>
+    <string name="fragment_update_til_date_hint">date</string>
+    <string name="fragment_update_til_hour_hint">hour</string>
+    <string name="fragment_update_btn_cancel_text">cancel</string>
+    <string name="fragment_update_btn_update_text">Update</string>
+    <string name="menu_delete_title">delete</string>
+</resources>
