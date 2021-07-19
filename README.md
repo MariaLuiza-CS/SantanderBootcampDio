@@ -37,7 +37,7 @@ No layout é possivel ver a utilizacão de Fragments, CardsViews, ToolBar person
 Pré-requisitos: Java 11 e android studio
 ```bash 
 # clonar repositório
-URL repositório: 
+URL repositório: https://github.com/MariaLuiza-CS/SantanderBootcampDio.git
 
 # abrir no android studio
 Get from version control > colar url > clone
