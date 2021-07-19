@@ -1,6 +1,6 @@
 # SantanderBootcampDio
 
-O Santander em parceria com a DIO (https://digitalinnovation.one/), lançou o Bootcamp Mobile Developer que teve como objetivo fortalecer a comunidade tecnológica brasileira, potencializar a formação de talentos em desenvolvimento de aplicativos mobile nativos para Android, com as melhores práticas utilizadas por experts do mercado.
+O Santander em parceria com a [DIO](https://digitalinnovation.one/), lançou o Bootcamp Mobile Developer que teve como objetivo fortalecer a comunidade tecnológica brasileira, potencializar a formação de talentos em desenvolvimento de aplicativos mobile nativos para Android, com as melhores práticas utilizadas por experts do mercado.
 
 ## Sobre o projeto
 
@@ -17,7 +17,20 @@ No layout é possivel ver a utilizacão de Fragments, CardsViews, ToolBar person
 - Android </br>
 
 ## Layouts
-
+<br>
+  <p align="left">
+            <img alt="adicionando task error campo vazio"
+            src="https://github.com/MariaLuiza-CS/SantanderBootcampDio/blob/master/app/src/main/res/drawable/photo01.png" width="20%"
+            title="adicionando task error campo vazio">
+            <img alt="adicionando task error campo vazio"
+            src="https://github.com/MariaLuiza-CS/SantanderBootcampDio/blob/master/app/src/main/res/drawable/photo02.png" width="20%"
+            title="adicionando task error campo vazio">
+            <img alt="adicionando task error campo vazio"
+            src="https://github.com/MariaLuiza-CS/SantanderBootcampDio/blob/master/app/src/main/res/drawable/photo03.png" width="20%"
+            title="adicionando task error campo vazio">
+            <img alt="adicionando task error campo vazio"
+            src="https://github.com/MariaLuiza-CS/SantanderBootcampDio/blob/master/app/src/main/res/drawable/photo04.png" width="20%"
+            title="adicionando task error campo vazio">
 
 ## Como clonar e executar o projeto
 
