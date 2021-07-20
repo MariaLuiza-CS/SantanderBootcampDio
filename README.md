@@ -13,6 +13,7 @@ No layout é possivel ver a utilizacão de Fragments, CardsViews, ToolBar person
 
 ## Tecnologias utilizadas
 - Kotlin </br>
+- CRUD </br>
 - MVVM </br>
 - ROOM </br>
 - Android </br>
